@@ -1,0 +1,224 @@
+.body { 
+    margin: 0; 
+    font-family: "Georgia", serif;
+ } 
+.pill-nav a { 
+    display: inline-block; 
+    text-align: center; 
+    padding: .625rem; 
+    text-decoration: none; 
+    font-family: "Georgia", serif; 
+    font-size: 1.125rem; 
+    border-radius: 12.5rem; 
+    color:whitesmoke; 
+    transition: all .4s ease; 
+} 
+.pill-nav a:hover { 
+    transform: translate(-0.3rem, -0.3rem); 
+    background-color: #990000; 
+    color: white; 
+} 
+
+.pill-nav a.active:hover { 
+    background-color: #990000; 
+    color:#990000; 
+
+} 
+.pill-nav { 
+    text-align: right; 
+    letter-spacing: 0.041rem; 
+    word-spacing: .625rem; 
+    color: #990000;
+    margin-top: 2rem; 
+    margin-right: 3.75rem;
+
+}
+
+
+.h1 {
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 4rem;
+    font-weight: bolder;
+    letter-spacing: 1rem;    
+
+}
+
+.p1 {
+    position: absolute;
+    top: 35%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 3rem;
+    font-weight: bolder;
+    letter-spacing: 1rem; 
+    height: auto
+}
+
+.p2 {
+    position: absolute;
+    top: 45%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 1.5rem;
+    letter-spacing: 1rem; 
+}
+
+.p3 {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 1.5rem;
+    letter-spacing: 1rem; 
+}
+
+.p4 {
+    position: absolute;
+    top: 55%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;   
+} 
+
+.nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.hero {
+    background-image: linear-gradient(to bottom, #740c16, #b70000);
+    background-position: 600%;
+    padding-top: 1300px;
+    padding-bottom: 285px;
+    margin-top: -10%;
+    margin-right: -5%;
+    margin-left: -5%;
+    margin-bottom: -8%;
+
+}
+.h1 {
+    position: absolute;
+    top: 35%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 3rem;
+    font-weight: bolder;
+    letter-spacing: 1rem;  
+}
+
+.pill-nav {
+    position: absolute;
+    top: 5%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 1rem;
+    letter-spacing: 0.10rem; 
+    height: auto;
+    width:auto
+}
+
+.img {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    height: 46rem;
+    width: 39rem;
+}
+
+.wrapper {
+    max-width: 60rem;
+    margin-inline:auto;
+}
+
+.img {
+    max-width: 100%;
+    height: auto
+}
+
+.img2 {
+    position: absolute;
+    top: 139%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    height: 25rem;
+    width: 18rem;
+}
+
+.img3 {
+    position: absolute;
+    top: 139%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 25rem;
+    width: 18rem;
+}
+
+.img4 {
+    position: absolute;
+    top: 139%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    height: 25rem;
+    width: 18rem;
+}
+
+.p5 {
+    position: absolute;
+    top: 175%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 1.5rem;
+    letter-spacing: 1rem; 
+}
+
+.p6 {
+    position: absolute;
+    top: 175%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+}
+
+.p7 {
+    position: absolute;
+    top: 175%;
+    left: 87%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+}
