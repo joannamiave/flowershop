@@ -1,0 +1,86 @@
+.body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to bottom, #740c16, #b70000);
+    color: white;
+    height: 80vh;
+    overflow: hidden;
+}
+
+.nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.hero {
+    background-image: linear-gradient(to bottom, #740c16, #b70000);
+    background-position: 600%;
+    padding-top: 1300px;
+    padding-bottom: 285px;
+    margin-top: -10%;
+    margin-right: -5%;
+    margin-left: -5%;
+    margin-bottom: -8%;
+
+}
+
+.text-overlaycontainer {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    letter-spacing: -0.10rem;
+
+}
+
+.text-overlaycontainer2 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    letter-spacing: -0.10rem;
+
+}
+
+.text-overlaycontainer3 {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family: "Georgia", serif;
+    font-size: 2.5rem;
+    letter-spacing: -0.10rem;
+}
+
+.body { 
+    padding: 10px 20px; 
+    font-size: 1rem; 
+    color: white; 
+    background-color: #7d0202; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s, 
+    transform 0.3s; } 
+    .custom-button:hover { 
+        background-color: #0056b3; 
+        transform: scale(1.05); 
+}
