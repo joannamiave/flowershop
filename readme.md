@@ -113,4 +113,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Tutorial with the design and how to change background colors and fonts. | https://youtu.be/wRNinF7YQqQ?si=nh2Bp51MV2eyAz2M|
+| Youtube | Tutorial with the design and how to change background colors and fonts. | https://youtu.be/wRNinF7YQqQ?si=nh2Bp51MV2eyAz2M|
