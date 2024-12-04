@@ -62,14 +62,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
   - It is a flowershop website, Te Amo flowershop sells different type of flowers like Tulips, lily, rose etc.
-  - It shows a better and different design for Te Amo flowershop website.
-  - 
+    It shows a better and different design for Te Amo flowershop website.
+
 
 
 ### Technology
@@ -117,4 +113,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Sample Title | Tutorial with the design and how to change background colors and fonts. | https://youtu.be/wRNinF7YQqQ?si=nh2Bp51MV2eyAz2M|
