@@ -11,10 +11,7 @@
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Te Amo</h3>
 </div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
-</div>
+
 
 <br />
 
@@ -63,8 +60,10 @@ Description of the project in details.
 
 Guiding Question:
 
-  - It is a flowershop website, Te Amo flowershop sells different type of flowers like Tulips, lily, rose etc.
-    It shows a better and different design for Te Amo flowershop website.
+  - Te Amo Flower Shop is a website that sells different types of flowers for different occassions. Wedding, birthdays, and surprises.
+    This flower shop website presents a romantic color palette that symbolizes the vibrant flowers that we sell, such as tulips, lilies,
+    and roses. Te Amo Flower Shop is not just a website or a shop, it is the embodiment of elegance, freshness, and fragrance that the
+    flowers of this shop is selling. 
 
 
 
